@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{gWnc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),c=n("Wbzz"),o=n("Bl7J"),r=n("vrFN");t.default=function(){return l.a.createElement(o.a,null,l.a.createElement(r.a,{title:"对骂机器人"}),l.a.createElement("h1",null,"对骂机器人"),l.a.createElement("p",null,"Welcome to page 2"),l.a.createElement(c.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-3-js-43d387f8a1e0498773ad.js.map
